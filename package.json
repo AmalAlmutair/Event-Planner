@@ -1,0 +1,21 @@
+{
+  "name": "Event-Planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmalAlmutair/Event-Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmalAlmutair/Event-Planner/issues"
+  },
+  "homepage": "https://github.com/AmalAlmutair/Event-Planner#readme"
+}
